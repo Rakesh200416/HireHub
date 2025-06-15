@@ -1,7 +1,7 @@
 # HireHub
 HireHub
 Sign in form for both job seeker and employer.
-![image alt](https://github.com/RANJITHA14102004/HireHub/blob/1732a75303184db5bf6f26144475b00a72ef3c54/Screenshot%202024-11-23%20165352.png)
+![image alt](https://github.com/Rakesh200416/HireHub/blob/1732a75303184db5bf6f26144475b00a72ef3c54/Screenshot%202024-11-23%20165352.png)
 
 
 job posting and management : where the employer can post the job in the website that will be accessed by the job seekers image alt
